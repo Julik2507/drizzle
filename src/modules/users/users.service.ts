@@ -12,3 +12,4 @@ export async function deleteUserData(id: number): Promise<boolean> {
   const result = await db.delete(users).where(eq(users.id, id));
   return true;
 }
+//hepu
