@@ -15,6 +15,34 @@
       "when": 1707750033054,
       "tag": "0001_nasty_meltdown",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1707848845843,
+      "tag": "0002_lumpy_tomas",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1708621065420,
+      "tag": "0003_white_shocker",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1708712958105,
+      "tag": "0004_clammy_human_robot",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1708713296013,
+      "tag": "0005_talented_spyke",
+      "breakpoints": true
     }
   ]
 }
