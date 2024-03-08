@@ -43,6 +43,34 @@
       "when": 1708713296013,
       "tag": "0005_talented_spyke",
       "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1709745957625,
+      "tag": "0006_good_venus",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1709748541012,
+      "tag": "0007_mysterious_prowler",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1709749650007,
+      "tag": "0008_faithful_silver_samurai",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1709827655296,
+      "tag": "0009_massive_amphibian",
+      "breakpoints": true
     }
   ]
 }

@@ -49,7 +49,7 @@ paths:
       summary: change user data(partial)
       tags:
         - User
-      operationId: changeUsser
+      operationId: changeUser
       requestBody:
         required: true
         content:
@@ -63,6 +63,18 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/changeUserSchema"
+  /user/delete:
+    delete:
+      tags:
+        - User
+      operationId: deleteUser
+      responses:
+        "200":
+          description: User was deleted!
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/deleteUserSchema"
 
 components:
   schemas:
@@ -125,3 +137,5 @@ components:
         email:
           type: string
           example: qwerty@mail.ru
+    deleteUserSchema:
+      type: boolean
